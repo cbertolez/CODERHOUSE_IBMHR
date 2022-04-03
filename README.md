@@ -60,7 +60,7 @@ mejores hiperparámetros con RandomizedSearchCV
 identificados por el algoritmo es el modelo de Regresión Logística.  
 - **f1-Score**: De todos los modelos el que mejor se ajusta en f1 es el modelo de AdaBoostClassifier.
 ## Modelo elegido
-Debido a que el modelo Regresion logistica obtuvo los mejores resultados con respecto a esta metrica, lo usaremos para los próximos pasos
+Debido a que el modelo Regresion logistica obtuvo los mejores resultados con respecto a esta metrica, lo usaremos para los próximos pasos ![modelo elegido](https://github.com/cbertolez/CODERHOUSE_IBMHR/blob/main/modelo%20de%20regresion1.PNG)
 
 ## Conclusiones
 -   Si bien el salario no es competitivo, el mal ambiente de trabajo o la mala relación con el jefe pueden ser razones para que un trabajador renuncie, aunque estas no son razones suficientes para que un empleado renuncie.
@@ -71,9 +71,9 @@ Debido a que el modelo Regresion logistica obtuvo los mejores resultados con res
 
 -   Pudimos responder algunas preguntas del problema inicial planteado pero a lo largo de la investigación y el desarrollo surgieron otras nuevas.
 ## Bibliografía
-[Employee engagement](https://www.comparably.com/companies/ibm/employee-engagement)
-[Satisfacción de empleados](https://www.questionpro.com/blog/es/como-hacer-encuestas-de-satisfaccion-de-empleados/)
-[Métricas de clasificación](https://www.iartificial.net/precision-recall-f1-accuracy-en-clasificacion/)
+- [Employee engagement](https://www.comparably.com/companies/ibm/employee-engagement)
+- [Satisfacción de empleados](https://www.questionpro.com/blog/es/como-hacer-encuestas-de-satisfaccion-de-empleados/)
+- [Métricas de clasificación](https://www.iartificial.net/precision-recall-f1-accuracy-en-clasificacion/)
 
 
 
