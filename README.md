@@ -51,7 +51,7 @@ Criterios para decidir un mejor algoritmo:
 ## Resultados de los diferentes modelos candidatos
 
 Seleccionando posibles algoritmos candidatos:
-![Comparación entre los resultados](https://drive.google.com/file/d/1FfZU7G8nfBTBW54UA4nKyKttA8cckTCS/view?usp=sharing)
+![Comparación entre los resultados](https://github.com/cbertolez/CODERHOUSE_IBMHR/blob/main/modelos%20candidatos.PNG)
 - **Accuracy**: El modelo ajusta razonablemente bien con más de 75% en accuracy de tanto en train  
 como en test en todos los modelos  
 - **Precisión**: El modelo que mejor precision tiene es Random Forest fue optimizado buscando los  
