@@ -60,7 +60,9 @@ mejores hiperparámetros con RandomizedSearchCV
 identificados por el algoritmo es el modelo de Regresión Logística.  
 - **f1-Score**: De todos los modelos el que mejor se ajusta en f1 es el modelo de AdaBoostClassifier.
 ## Modelo elegido
-Debido a que el modelo Regresion logistica obtuvo los mejores resultados con respecto a esta metrica, lo usaremos para los próximos pasos ![modelo elegido](https://github.com/cbertolez/CODERHOUSE_IBMHR/blob/main/modelo%20de%20regresion1.PNG)
+Debido a que el modelo Regresion logistica obtuvo los mejores resultados con respecto a esta metrica, lo usaremos para los próximos pasos
+
+![modelo elegido](https://github.com/cbertolez/CODERHOUSE_IBMHR/blob/main/modelo%20de%20regresion1.PNG)
 
 ## Conclusiones
 -   Si bien el salario no es competitivo, el mal ambiente de trabajo o la mala relación con el jefe pueden ser razones para que un trabajador renuncie, aunque estas no son razones suficientes para que un empleado renuncie.
